@@ -20,11 +20,3 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-* [x] tarea completada
-* [ ] tarea completa
-* [x] tarea completada
-* [ ] tarea incompleta
-
-@BMPaiba
-
-🥇 :+1:
