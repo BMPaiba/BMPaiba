@@ -19,3 +19,8 @@
 [![](https://visitcount.itsvg.in/api?id=bmpaiba&icon=2&color=12)](https://visitcount.itsvg.in) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+*[x] tarea completada
+*[ ] tarea completa
+*[x] tarea completada
+*[ ] tarea incompleta
